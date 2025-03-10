@@ -8,7 +8,7 @@
 Summary:	A smarter query cache for TinyDB
 Name:		python-tinydb-smartcache
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://files.pythonhosted.org/packages/source/t/tinydb-smartcache/%{pypi_name}-%{version}.zip
